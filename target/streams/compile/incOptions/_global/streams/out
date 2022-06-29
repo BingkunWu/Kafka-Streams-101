@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/bingkunwu/Code/zendesk/Kafka_Streams_101/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/bingkunwu/Code/zendesk/Kafka_Streams_101/target/scala-2.13/classes.bak[0m
